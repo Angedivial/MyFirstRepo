@@ -1,0 +1,87 @@
+:
+
+📘 Project Documentation: MyFirstRepo – GitHub Learning Journey
+👤 Author
+Uwimana Ange
+
+📝 Purpose
+This repository is part of a learning exercise to understand Git and GitHub workflows, including repository setup, branching, committing changes, and creating pull requests.
+
+📁 Repository Setup
+✅ Initialized Git Repository
+bash
+Copy
+Edit
+git init
+✅ Added a Remote Repository
+bash
+Copy
+Edit
+git remote add origin https://github.com/Angedivial/MyFirstRepo.git
+✅ Created and Committed Initial File
+File: introduction.txt
+Content:
+
+Title: Brief Introduction About Myself
+
+A short paragraph introducing the author and the project’s purpose.
+
+Command used:
+
+bash
+Copy
+Edit
+git add introduction.txt
+git commit -m "Initial commit with introduction"
+git push -u origin main
+🌿 Feature Branch: feature-update
+✅ Created a New Branch
+bash
+Copy
+Edit
+git checkout -b feature-update
+✅ Created and Committed a New File
+File: goals.txt
+Title: My Personal and Academic Goals for Next Year
+Content:
+
+List of goals for learning, certification, and project contributions.
+
+Command used:
+
+bash
+Copy
+Edit
+echo "My Personal and Academic Goals for Next Year
+
+1. Improve my programming skills in Python and JavaScript.
+2. Build and contribute to real-world tech projects in healthcare.
+3. Complete my Salesforce certification.
+4. Start a portfolio website to showcase my work.
+5. Collaborate with peers on GitHub and grow my network.
+6. Maintain a consistent study schedule and journal my learning." > goals.txt
+
+git add goals.txt
+git commit -m "Added goals list"
+git push -u origin feature-update
+🔀 Pull Request & Merge
+✅ Opened a Pull Request
+Compared feature-update → main
+
+Pull request description:
+
+This pull request adds a new file goals.txt containing a list of my personal and academic goals for the next year. It’s part of my GitHub learning journey and helps me plan my progress as a developer.
+
+✅ Reviewed & Merged Pull Request
+Reviewed changes under “Files changed”
+
+Merged feature-update into main
+
+✅ Summary of Accomplishments
+Task	Status
+Initialized Git repository	✅ Completed
+Connected to GitHub	✅ Completed
+Created and committed introduction.txt	✅ Completed
+Created feature-update branch	✅ Completed
+Added and committed goals.txt	✅ Completed
+Opened and merged pull request	✅ Completed
