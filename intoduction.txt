@@ -1,8 +1,3 @@
-
-["Brief Introduction About Myself"]
-
-Brief Introduction About Myself
-
-Hello! My name is Uwimana Ange, and I am passionate about using technology to solve real-world problems—especially in healthcare and education. I enjoy learning about tools like Salesforce and GitHub, and I am currently building my first repository as part of my journey in software development and data systems.
+Brief Introduction About Myself, Hello! My name is Uwimana Ange, and I am passionate about using technology to solve real-world problems—especially in healthcare and education. I enjoy learning about tools like Salesforce and GitHub, and I am currently building my first repository as part of my journey in software development and data systems.
 
 My goal is to leverage technology to improve access to essential services for underrepresented communities. I am especially interested in rural healthcare systems and how digital platforms can support children with chronic illnesses and disabilities. This project is one step forward in that mission.
