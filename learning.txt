@@ -1,6 +1,6 @@
-:
+["What I have learned from this course"]
 
-📘 Project Documentation: MyFirstRepo – GitHub Learning Journey
+Project Documentation: MyFirstRepo – GitHub Learning Journey
 👤 Author
 Uwimana Ange
 
